@@ -9,7 +9,7 @@ process.on('uncaughtException', (err) => {
 
 config();
 
-import app from './config/app';
+import app from './config/app.js';
 
 const DB = process.env.DATABASE;
 
