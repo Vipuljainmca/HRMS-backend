@@ -1,4 +1,4 @@
-# Attendance Management System
+# Employee Management System
 
 ## Overview
 
@@ -48,7 +48,7 @@ The Attendance Management System is a web application designed to streamline the
 
 ```bash
 # Clone the repository
-git clone https://github.com/sagar2535/attendance-management-system
+git clone https://github.com/Vipuljainmca/HRMS-backend
 
 # Navigate to the project directory
 cd attendance-management-system
