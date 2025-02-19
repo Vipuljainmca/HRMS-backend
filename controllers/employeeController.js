@@ -6,6 +6,7 @@ import AppError from '../utils/AppError.js';
 export const createEmployee = async (req, res, next) => {
   try {
     // Extract relevant fields from req.body
+    console.log("req body",req.body)
     const {
       personalDetails: {
         candidateName,
